@@ -15,10 +15,10 @@ h2 {
 
 .completed {
   font-family: helvetica;
+  font-size: 12px
 }
 
 #tasks .completed {
   background: #ccc;
   text-decoration: underline;
-  font-size: 12px
 }
